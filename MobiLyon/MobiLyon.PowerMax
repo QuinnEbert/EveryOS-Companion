@@ -1,0 +1,13 @@
+#!/usr/bin/php -q
+<?php
+//FIXME: "If" to switch these on-demand?
+// Capacity of Design
+$plData = `cat /proc/acpi/battery/BAT0/info | grep "design capacity:"`;
+// Last Full Capacity
+$plData = `cat /proc/acpi/battery/BAT0/info | grep "last full capacity:"`;
+while (strstr($plData,'  '))
+  $plData = str_replace('  ',' ',$plData);
+$plBits = explode(' ',$plData);
+foreach ($plBits as $oneBit)
+  if (is_numeric($oneBit))
+    die($oneBit);

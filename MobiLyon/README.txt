@@ -1,12 +1,9 @@
-The HollyHug Windows Toolkit
-"Now in generally-available source code format!"
+This code was written around Christmas 2010 and ran quite well on the latest non-LTS Ubuntu Linux release available at that time.  Even so, I think the
+code presented here saw some changes since then, which may or may not have been tested.  Add onto that the fact that I haven't run this code in over a
+year, and, you can see that I'm not 100% confident in how well this code may hold up as-is.  Of course, I do intend to go back, and ensure this all is
+working reasonably at some point sooner rather than later.
 
-UP FRONT:
-+ HollyHug is becoming an integrated part of my "EveryOS Companion" software set.  As we go forward you will see names like "HollyHug," "MobiLyon," and
-  "Roshteka" replaced by references to "EveryOS Companion."  This is happening in my growing professional style, and, as a committment to do proper
-  service to the artists who may (or may not) have liked whatever promotion these names and representations may have provided.
-
-IMPORTANT LEGAL LICENSE INFORMATION:
+The following HollyHug-sourced legal and licensing details apply:
 + The initial commit to subversion very likely contains binaries that I do not have the license to redistribute.  I am making this commit with the full
   admission that this several-years-old project directory is an absolute mess, and, I am making no effort to pirate anything by providing this massive
   repository.  If you are a member of a legal representation team who is investigating improper redistribution of your binaries, do us both a favor and
@@ -25,6 +22,4 @@ THE LICENSE OF HOLLYHUG:
 + You MAY tinker around with this code for your own experimentation so long as the results of this experimentation are ONLY used by yourself.  Other
   use of this code is prohibited without prior written permission from myself (possibly including a license fee depending on nature of your project).
 
-FULL DISCLOSURE:
-+ Passwords were repudiated from certain files in this project.  Some of the files that passwords were repudiated from do NOT include a "FIXME" at the
-  top indicating this was done, however, those source code files were similarly NOT tested for compilability before release to the repo.
+

@@ -1,0 +1,5 @@
+C:\Users\Quinn\Projects\MobiLyon\MobiLyon_PowerLvl\MobiLyon_PowerLvl\bin\Release\MobiLyon_PowerLvl.exe
+C:\Users\Quinn\Projects\MobiLyon\MobiLyon_PowerLvl\MobiLyon_PowerLvl\bin\Release\MobiLyon_PowerLvl.pdb
+C:\Users\Quinn\Projects\MobiLyon\MobiLyon_PowerLvl\MobiLyon_PowerLvl\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Quinn\Projects\MobiLyon\MobiLyon_PowerLvl\MobiLyon_PowerLvl\obj\x86\Release\MobiLyon_PowerLvl.exe
+C:\Users\Quinn\Projects\MobiLyon\MobiLyon_PowerLvl\MobiLyon_PowerLvl\obj\x86\Release\MobiLyon_PowerLvl.pdb

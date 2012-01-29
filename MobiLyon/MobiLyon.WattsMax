@@ -1,0 +1,9 @@
+#!/usr/bin/php -q
+<?php
+$plData = `cat /proc/acpi/battery/BAT0/info | grep "design capacity:"`;
+while (strstr($plData,'  '))
+  $plData = str_replace('  ',' ',$plData);
+$plBits = explode(' ',$plData);
+foreach ($plBits as $oneBit)
+  if (is_numeric($oneBit))
+    die($oneBit);

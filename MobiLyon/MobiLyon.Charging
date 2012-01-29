@@ -1,0 +1,19 @@
+#!/usr/bin/php -q
+<?php
+$plData = `cat /proc/acpi/battery/BAT0/state | grep "charging state:"`;
+while (strstr($plData,'  '))
+  $plData = str_replace('  ',' ',$plData);
+$plBits = explode(' ',$plData);
+$e = count($plBits) - 1;
+$oneBit = $plBits[$e];
+$oneBit = rtrim($oneBit);
+//die($oneBit."\n");
+if ($oneBit == 'charging') {
+  die('1');
+} elseif ($oneBit == 'discharging') {
+  die('0');
+} else {
+  die('2');
+}
+// Should never get here, but, oh well:
+die();
