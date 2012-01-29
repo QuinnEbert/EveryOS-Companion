@@ -10,5 +10,3 @@ Here's what OS each is for:
 HollyHug -> Windows  (formerly "The HollyHug Windows Toolkit")
 MobiLyon -> Linux    (formerly "MobiLyon" and never before public!)
 Roshteka -> MacOS X  (formerly "Roshteka" and never before public!)
-
-(NOTE: at the time of this writing, Roshteka isn't yet committed to GitHub, but I am actively working on this directly after committing this README...)
