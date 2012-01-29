@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CheckWanSpeed_RP614v4
+</name>
+</assembly>
+<members>
+<member name="P:CheckWanSpeed_RP614v4.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CheckWanSpeed_RP614v4.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CheckWanSpeed_RP614v4.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CheckWanSpeed_RP614v4.ComfyPHP">
+	<summary>
+ "Comfort" functions for PHP-Familiarized Developers
+ </summary>
+	<remarks>
+ Author: David Quinn Ebert
+ http://www.quinnebert.net
+ </remarks>
+</member><member name="M:CheckWanSpeed_RP614v4.RP614v4.WebFetch(System.String)">
+	<summary>
+ Private function grabs document at given URL, and returns its contents as string
+ 
+ NOTE:
+ This function returns errors retrieveable via GiveLogs()
+ </summary>
+	<returns>String with document's contents (blank on error, error details gettable via GiveLogs() function.</returns>
+	<remarks>Nothing.</remarks>
+</member>
+</members>
+</doc>

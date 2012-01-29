@@ -1,0 +1,11 @@
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\bin\Release\NetSpeak_TestApp.exe
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\bin\Release\NetSpeak_TestApp.pdb
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\bin\Release\NetSpeak_TestApp.xml
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\obj\Release\NetSpeak_TestApp.Resources.resources
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\obj\Release\NetSpeak_TestApp.NetSpeak_TestApp.resources
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\obj\Release\NetSpeak_TestApp.Simple_Host_Entry_Dialogue.resources
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\obj\Release\NetSpeak_TestApp.vbproj.GenerateResource.Cache
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\obj\Release\NetSpeak_TestApp.exe
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\obj\Release\NetSpeak_TestApp.xml
+C:\Users\Quinn\Projects\HollyHug\NetSpeak_TestApp\obj\Release\NetSpeak_TestApp.pdb

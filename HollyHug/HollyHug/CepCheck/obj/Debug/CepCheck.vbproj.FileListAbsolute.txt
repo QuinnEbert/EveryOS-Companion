@@ -1,0 +1,10 @@
+C:\Users\Quinn\Projects\HollyHug\CepCheck\bin\Debug\CepCheck.exe
+C:\Users\Quinn\Projects\HollyHug\CepCheck\bin\Debug\CepCheck.pdb
+C:\Users\Quinn\Projects\HollyHug\CepCheck\bin\Debug\CepCheck.xml
+C:\Users\Quinn\Projects\HollyHug\CepCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Quinn\Projects\HollyHug\CepCheck\obj\Debug\CepCheck.CepCheck.resources
+C:\Users\Quinn\Projects\HollyHug\CepCheck\obj\Debug\CepCheck.Resources.resources
+C:\Users\Quinn\Projects\HollyHug\CepCheck\obj\Debug\CepCheck.vbproj.GenerateResource.Cache
+C:\Users\Quinn\Projects\HollyHug\CepCheck\obj\Debug\CepCheck.exe
+C:\Users\Quinn\Projects\HollyHug\CepCheck\obj\Debug\CepCheck.xml
+C:\Users\Quinn\Projects\HollyHug\CepCheck\obj\Debug\CepCheck.pdb

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HollyHug">
+</Property><Property Name="Solution File" Value="C:\Users\Quinn\Projects\HollyHug\HollyHug.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Quinn\Projects\HollyHug\HollyHug.suo">
+</Property><Property Name="Date" Value="Monday, April 26, 2010">
+</Property><Property Name="Time" Value="8:10 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HollyHug.sln" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HollyHug.suo" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug.suo">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyHug.vbproj" Description="Project file successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyHug.vbproj">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyHug.vbproj.user" Description="Project user file successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyHug.vbproj.user">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\AnnyConf.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\AnnyConf.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\AnnyConf.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\AnnyConf.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\ApplicationEvents.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Branding.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Branding.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\CepCheck.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\CepCheck.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\CheckLib.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\CheckLib.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\ComfyPHP.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\ComfyPHP.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\ConfigUA.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\ConfigUA.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\ConfigUA.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\ConfigUA.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\GamerPower.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\GamerPower.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\GamerPower.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\GamerPower.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyBatch.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyBatch.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyBatch.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyBatch.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyHug.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyHug.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyHug.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyHug.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyLog.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyLog.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyLog.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyLog.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyNet\HollyNetClient.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyNet\HollyNetClient.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyNet\HollyNetServer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyNet\HollyNetServer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyOpt.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyOpt.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HumieInt.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HumieInt.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyPic.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyPic.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyPic.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyPic.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\NettyAnn.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\NettyAnn.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\NettyCmd.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\NettyCmd.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\AnnTools.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\AnnTools.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\NettyWiz.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\NettyWiz.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\NettyWiz.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\NettyWiz.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\PowerAnn.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\PowerAnn.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\PowerAnn.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\PowerAnn.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\PowerMOD.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\PowerMOD.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\PowerMOD.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\PowerMOD.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\ReferAPM.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\ReferAPM.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\RP614v4.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\RP614v4.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\SmartAnn.Designer.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\SmartAnn.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\SmartAnn.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\SmartAnn.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\SvcCheck.vb" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\SvcCheck.vb">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\php.exe" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\php.exe">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\php5ts.dll" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\php5ts.dll">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\php_ini.c" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\php_ini.c">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\php.ini" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\php.ini">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Resources\InstPict.bmp" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Resources\InstPict.bmp">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\hollysay.cmd" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\hollysay.cmd">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\My Project\app.manifest" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\PowerInf.cmd" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\PowerInf.cmd">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\PowerInf.php" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\PowerInf.php">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\app.config" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\app.config">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Apply_DP.exe" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Apply_DP.exe">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Audio4TV.exe" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Audio4TV.exe">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\AudioChg.exe" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\AudioChg.exe">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Branding\Theme_Default\HollyPic.jpg" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Branding\Theme_Default\HollyPic.jpg">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Branding\Theme_Default\trayicon.ico" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Branding\Theme_Default\trayicon.ico">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Branding\Theme_Hollyann\HollyPic.jpg" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Branding\Theme_Hollyann\HollyPic.jpg">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Branding\Theme_Hollyann\trayicon.ico" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Branding\Theme_Hollyann\trayicon.ico">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Branding\Theme_Wytelyon\HollyPic.jpg" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Branding\Theme_Wytelyon\HollyPic.jpg">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\Branding\Theme_Wytelyon\trayicon.ico" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\Branding\Theme_Wytelyon\trayicon.ico">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\build_note.txt" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\build_note.txt">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\hollyann.ico" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\hollyann.ico">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\AnnyConf.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\AnnyConf.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\ConfigUA.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\ConfigUA.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\GamerPower.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\GamerPower.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyBatch.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyBatch.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyHug.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyHug.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyLog.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyLog.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyPic.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\HollyPic.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\NettyWiz.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\NettyWiz.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\PowerAnn.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\PowerAnn.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\PowerMOD.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\PowerMOD.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\SmartAnn.resx" Description="File successfully backed up as C:\Users\Quinn\Projects\HollyHug\Backups_VS2010\Backup\HollyHug\SmartAnn.resx">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyHug.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HollyHug" Source="HollyHug\HollyHug.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HollyHug.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HollyHug.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HollyHug" Source="HollyHug\HollyHug.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

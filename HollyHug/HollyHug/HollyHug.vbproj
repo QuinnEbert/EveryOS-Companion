@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EC3BE569-BD4C-4577-8AA9-89425D4DDA68}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>HollyHug.My.MyApplication</StartupObject>
+    <RootNamespace>HollyHug</RootNamespace>
+    <AssemblyName>HollyHug</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>hollyann.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>B3620171A28C2E02F8F324D434695443DE8F9C70</ManifestCertificateThumbprint>
+    <ManifestKeyFile>HollyHug_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>c:\users\public\hollyhug\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <TargetCulture>en</TargetCulture>
+    <ProductName>HollyHug</ProductName>
+    <PublisherName>Beyond IT, LLC</PublisherName>
+    <SuiteName>HollyHug Vista Tool Kit</SuiteName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <DisallowUrlActivation>true</DisallowUrlActivation>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>3.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\BuildAll\</OutputPath>
+    <DocumentationFile>HollyHug.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42024,42032,42036,42099,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <Optimize>false</Optimize>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>Full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\BuildAll\</OutputPath>
+    <DocumentationFile>HollyHug.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42024,42032,42036,42099,42353,42354,42355</NoWarn>
+    <DebugSymbols>true</DebugSymbols>
+    <PlatformTarget>x86</PlatformTarget>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AnnyConf.Designer.vb">
+      <DependentUpon>AnnyConf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AnnyConf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BatteryInfoReader.vb" />
+    <Compile Include="Branding.vb" />
+    <Compile Include="CepCheck.vb" />
+    <Compile Include="CheckLib.vb" />
+    <Compile Include="ComfyPHP.vb" />
+    <Compile Include="ConfigUA.Designer.vb">
+      <DependentUpon>ConfigUA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigUA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GamerPower.Designer.vb">
+      <DependentUpon>GamerPower.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GamerPower.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HollyBatch.Designer.vb">
+      <DependentUpon>HollyBatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HollyBatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HollyHug.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HollyHug.Designer.vb">
+      <DependentUpon>HollyHug.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HollyHug_WebAppHostService.vb" />
+    <Compile Include="HollyLog.Designer.vb">
+      <DependentUpon>HollyLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HollyLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HollyNet\HollyNetClient.vb" />
+    <Compile Include="HollyNet\HollyNetServer.vb" />
+    <Compile Include="HollyOpt.vb" />
+    <Compile Include="HumieInt.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="HollyPic.Designer.vb">
+      <DependentUpon>HollyPic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HollyPic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NettyAnn.vb" />
+    <Compile Include="NettyCmd.vb" />
+    <Compile Include="AnnTools.vb" />
+    <Compile Include="NettyWiz.Designer.vb">
+      <DependentUpon>NettyWiz.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NettyWiz.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PowerAnn.Designer.vb">
+      <DependentUpon>PowerAnn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PowerAnn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PowerMOD.Designer.vb">
+      <DependentUpon>PowerMOD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PowerMOD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReferAPM.vb" />
+    <Compile Include="RP614v4.vb" />
+    <Compile Include="SmartAnn.Designer.vb">
+      <DependentUpon>SmartAnn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SmartAnn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SvcCheck.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AnnyConf.resx">
+      <DependentUpon>AnnyConf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigUA.resx">
+      <DependentUpon>ConfigUA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GamerPower.resx">
+      <DependentUpon>GamerPower.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HollyBatch.resx">
+      <DependentUpon>HollyBatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HollyHug.resx">
+      <DependentUpon>HollyHug.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HollyLog.resx">
+      <DependentUpon>HollyLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HollyPic.resx">
+      <DependentUpon>HollyPic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NettyWiz.resx">
+      <DependentUpon>NettyWiz.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PowerAnn.resx">
+      <DependentUpon>PowerAnn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PowerMOD.resx">
+      <DependentUpon>PowerMOD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmartAnn.resx">
+      <DependentUpon>SmartAnn.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Apply_DP.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Branding\Theme_Default\HollyPic.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Branding\Theme_Default\trayicon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Branding\Theme_Hollyann\HollyPic.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Branding\Theme_Hollyann\trayicon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Branding\Theme_Wytelyon\HollyPic.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Branding\Theme_Wytelyon\trayicon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="build_note.txt" />
+    <Content Include="DeltaSPDIFControllerDeactivate.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DeltaSPDIFControllerEnactivate.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="hollyann.ico" />
+    <None Include="Resources\silenz44.wav" />
+    <None Include="Resources\silenz48.wav" />
+    <Content Include="HollyPic.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\powercpl_506.ico" />
+    <None Include="Resources\growl.ico" />
+    <None Include="Resources\growl.jpg" />
+    <None Include="Resources\HollyGrowl.jpg" />
+    <Resource Include="Interop.SpeechLib.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="ThemeOn7.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="php.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="php5ts.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="php_ini.c">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="php.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\InstPict.bmp" />
+    <Content Include="hollysay.cmd">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="My Project\app.manifest" />
+    <Content Include="PowerInf.cmd">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PowerInf.php">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Growl.Connector">
+      <HintPath>.\Growl.Connector.dll</HintPath>
+    </Reference>
+    <Reference Include="Growl.CoreLibrary">
+      <HintPath>.\Growl.CoreLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL" />
+    <Reference Include="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="BusinessObjects.CrystalReports.10.5">
+      <Visible>False</Visible>
+      <ProductName>Crystal Reports Basic for Visual Studio 2008 %28x86, x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.8.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Studio 2008 Report Viewer</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VisualBasic.PowerPacks.10.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Basic PowerPacks 10.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VSTORuntime.3.0">
+      <Visible>False</Visible>
+      <ProductName>Visual Studio Tools for the Office system 3.0 Runtime</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Growl.Connector" />
+    <Import Include="Growl.CoreLibrary" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SpeechLib">
+      <Guid>{C866CA3A-32F7-11D2-9602-00C04F8EE628}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

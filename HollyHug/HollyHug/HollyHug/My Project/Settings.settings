@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SmartPlan_Idle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NotchYet</Value>
+    </Setting>
+    <Setting Name="SmartPlan_Busy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NotchYet</Value>
+    </Setting>
+    <Setting Name="DisableSmartPlanOnManualSelect" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IdleTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="UseDelta" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TheVoice" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NONE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

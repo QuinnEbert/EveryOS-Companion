@@ -1,0 +1,12 @@
+Send("{LWINDOWN}d{LWINUP}")
+$op = MouseGetPos()
+MouseClick("right", 0, 0, 1)
+Sleep(333)
+Send("v")
+Sleep(333)
+Send("{UP}{UP}")
+Sleep(333)
+Send("{ENTER}")
+Sleep(333)
+MouseMove($op[0], $op[1])
+Exit

@@ -1,0 +1,15 @@
+ShellExecute("vacwaver.lnk","","c:\windows","open")
+WinWait("Audio Repeater 1.20","",30)
+If Not WinActive("Audio Repeater 1.20","") Then
+	WinActivate("Audio Repeater 1.20","")
+EndIf
+ControlFocus("Audio Repeater 1.20","","[CLASS:ComboBox;INSTANCE:1]")
+Send("2")
+Sleep(500)
+ControlFocus("Audio Repeater 1.20","","[CLASS:ComboBox;INSTANCE:2]")
+Send("m")
+Sleep(500)
+ControlClick("Audio Repeater 1.20","","[CLASS:Button;INSTANCE:1]")
+Sleep(5000)
+WinSetState("Audio Repeater 1.20","",@SW_HIDE)
+Exit(0)

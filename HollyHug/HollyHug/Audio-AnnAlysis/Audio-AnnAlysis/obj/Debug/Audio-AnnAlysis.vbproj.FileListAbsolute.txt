@@ -1,0 +1,10 @@
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\bin\Debug\Audio-AnnAlysis.exe
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\bin\Debug\Audio-AnnAlysis.pdb
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\bin\Debug\Audio-AnnAlysis.xml
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\obj\Debug\RenameMe.Form1.resources
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\obj\Debug\RenameMe.Resources.resources
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\obj\Debug\Audio-AnnAlysis.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\obj\Debug\Audio-AnnAlysis.exe
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\obj\Debug\Audio-AnnAlysis.xml
+C:\Users\Administrator\Projects\HollyHug\Audio-AnnAlysis\Audio-AnnAlysis\obj\Debug\Audio-AnnAlysis.pdb

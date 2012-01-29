@@ -1,0 +1,11 @@
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About\MultiprocessorDevianceBabysitter_About\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About\MultiprocessorDevianceBabysitter_About\obj\x86\Release\MultiprocessorDevianceBabysitter_About.frmAbout.resources
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About\MultiprocessorDevianceBabysitter_About\obj\x86\Release\MultiprocessorDevianceBabysitter_About.Resources.resources
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About\MultiprocessorDevianceBabysitter_About\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About\MultiprocessorDevianceBabysitter_About\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About\MultiprocessorDevianceBabysitter_About\obj\x86\Release\MultiprocessorDevianceBabysitter_About.exe
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About\MultiprocessorDevianceBabysitter_About\obj\x86\Release\MultiprocessorDevianceBabysitter_About.xml
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About\MultiprocessorDevianceBabysitter_About\obj\x86\Release\MultiprocessorDevianceBabysitter_About.pdb
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About.exe
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About.pdb
+C:\Users\Quinn\projects\HollyHug\AutoIt Helper Scripts\MultiprocessorDevianceBabysitter_About.xml

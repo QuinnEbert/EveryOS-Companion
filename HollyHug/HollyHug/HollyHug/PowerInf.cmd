@@ -1,0 +1,1 @@
+.\php.exe -f PowerInf.php > PowerInf.out

@@ -1,0 +1,13 @@
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\bin\Release\HollyHug_WebAppHostService.exe
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\bin\Release\HollyHug_WebAppHostService.pdb
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\bin\Release\HollyHug_WebAppHostService.xml
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Release\HollyHug_WebAppHostService.Resources.resources
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Release\HollyHug_WebAppHostService.exe
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Release\HollyHug_WebAppHostService.xml
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Release\HollyHug_WebAppHostService.pdb
+C:\Users\Quinn\Dropbox\Projects\HollyHug\BuildAll\HollyHug_WebAppHostService.exe
+C:\Users\Quinn\Dropbox\Projects\HollyHug\BuildAll\HollyHug_WebAppHostService.pdb
+C:\Users\Quinn\Dropbox\Projects\HollyHug\BuildAll\HollyHug_WebAppHostService.xml

@@ -1,0 +1,9 @@
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\bin\Release\HollyNetTestClient.exe
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\bin\Release\HollyNetTestClient.pdb
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\bin\Release\HollyNetTestClient.xml
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\obj\Release\HollyNetTestClient.Resources.resources
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\obj\Release\HollyNetTestClient.vbproj.GenerateResource.Cache
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\obj\Release\HollyNetTestClient.exe
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\obj\Release\HollyNetTestClient.xml
+C:\Users\Quinn\Projects\HollyHug\HollyNetTestClient\HollyNetTestClient\obj\Release\HollyNetTestClient.pdb

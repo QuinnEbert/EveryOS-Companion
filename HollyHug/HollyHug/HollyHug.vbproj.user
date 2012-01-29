@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Windows\Microsoft.NET\Framework\v1.0.3705\;C:\Windows\Microsoft.NET\Framework\v1.1.4322\;C:\Windows\Microsoft.NET\Framework\v2.0.50727\;C:\Windows\Microsoft.NET\Framework\v3.5\</ReferencePath>
+    <PublishUrlHistory>c:\users\public\hollyhug\|\\192.168.1.2\public\hollyhug\|c:\deploy\hollyhug\|http://pub.quinnebert.net/hollyhug/|C:\HollyPub\iPublish\</PublishUrlHistory>
+    <InstallUrlHistory>http://hug.quinnebert.net/iPublish/</InstallUrlHistory>
+    <SupportUrlHistory>http://hollyhug.quinnebert.net/</SupportUrlHistory>
+    <UpdateUrlHistory>\\192.168.1.2\Public\HollyHug\</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartAction>Project</StartAction>
+    <RemoteDebugMachine>
+    </RemoteDebugMachine>
+    <StartProgram>
+    </StartProgram>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartAction>Project</StartAction>
+    <RemoteDebugMachine>
+    </RemoteDebugMachine>
+    <StartProgram>
+    </StartProgram>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <StartWorkingDirectory>C:\Users\Quinn\Dropbox\Projects\HollyHug\BuildAll\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

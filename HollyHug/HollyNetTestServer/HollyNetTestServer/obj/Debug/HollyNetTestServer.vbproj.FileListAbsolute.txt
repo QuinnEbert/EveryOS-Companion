@@ -1,0 +1,9 @@
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\bin\Debug\HollyNetTestServer.exe
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\bin\Debug\HollyNetTestServer.pdb
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\bin\Debug\HollyNetTestServer.xml
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\obj\Debug\HollyNetTestServer.Resources.resources
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\obj\Debug\HollyNetTestServer.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\obj\Debug\HollyNetTestServer.exe
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\obj\Debug\HollyNetTestServer.xml
+C:\Users\Administrator\Projects\HollyHug\HollyNetTestServer\HollyNetTestServer\obj\Debug\HollyNetTestServer.pdb

@@ -1,0 +1,3 @@
+﻿+ Still trying to weed out bugs with returning from Away.
+   > [2010-04-05] Saw some weird behavior where returns were lapsed by quite a few minutes.
+      * I was seeing excessively heavy load at this time, thought this might be a culprit

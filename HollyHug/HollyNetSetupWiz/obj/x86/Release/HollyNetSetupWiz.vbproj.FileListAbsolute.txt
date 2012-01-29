@@ -1,0 +1,7 @@
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyNetSetupWiz\bin\Release\HollyNetSetupWiz.exe
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyNetSetupWiz\bin\Release\HollyNetSetupWiz.pdb
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyNetSetupWiz\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyNetSetupWiz\obj\x86\Release\HollyNetSetupWiz.exe
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyNetSetupWiz\obj\x86\Release\HollyNetSetupWiz.pdb
+C:\Users\Quinn\Projects\HollyHug\HollyNetSetupWiz\obj\x86\Release\HollyNetSetupWiz.exe
+C:\Users\Quinn\Projects\HollyHug\HollyNetSetupWiz\obj\x86\Release\HollyNetSetupWiz.pdb

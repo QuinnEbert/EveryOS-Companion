@@ -1,0 +1,16 @@
+ShellExecute("M-AudioDeltaControlPanel.exe")
+WinWait("M-Audio Delta Control Panel")
+If Not WinActive("M-Audio Delta Control Panel") Then
+	WinActivate("M-Audio Delta Control Panel")
+	WinWaitActive("M-Audio Delta Control Panel")
+EndIf
+WinMove("M-Audio Delta Control Panel","",0,0)
+Sleep(100)
+ControlClick("[CLASS:SysTabControl32]","",4000)
+Sleep(100)
+$pos = MouseGetPos()
+MouseMove(293, 132)
+MouseClick("left",293,132,1)
+Sleep(100)
+WinClose("M-Audio Delta Control Panel")
+MouseMove($pos[0],$pos[1])

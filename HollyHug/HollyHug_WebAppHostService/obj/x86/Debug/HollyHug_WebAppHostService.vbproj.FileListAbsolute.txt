@@ -1,0 +1,20 @@
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\bin\Debug\HollyHug_WebAppHostService.exe
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\bin\Debug\HollyHug_WebAppHostService.pdb
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\bin\Debug\HollyHug_WebAppHostService.xml
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\obj\x86\Debug\HollyHug_WebAppHostService.Resources.resources
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\obj\x86\Debug\HollyHug_WebAppHostService.exe
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\obj\x86\Debug\HollyHug_WebAppHostService.xml
+C:\Users\Quinn\AppData\Local\Temporary Projects\HollyHug_WebAppHostService\obj\x86\Debug\HollyHug_WebAppHostService.pdb
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Debug\HollyHug_WebAppHostService.exe
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Debug\HollyHug_WebAppHostService.xml
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Debug\HollyHug_WebAppHostService.pdb
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\bin\Debug\HollyHug_WebAppHostService.exe
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\bin\Debug\HollyHug_WebAppHostService.pdb
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\bin\Debug\HollyHug_WebAppHostService.xml
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Debug\HollyHug_WebAppHostService.Resources.resources
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Quinn\Dropbox\Projects\HollyHug\HollyHug_WebAppHostService\obj\x86\Debug\GenerateResource.write.1.tlog

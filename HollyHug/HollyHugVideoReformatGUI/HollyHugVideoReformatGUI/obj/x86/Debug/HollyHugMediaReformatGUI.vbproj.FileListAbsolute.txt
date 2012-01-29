@@ -1,0 +1,11 @@
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\bin\Debug\HollyHugMediaReformatGUI.exe
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\bin\Debug\HollyHugMediaReformatGUI.pdb
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\bin\Debug\HollyHugMediaReformatGUI.xml
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\obj\x86\Debug\HollyHugMediaReformatGUI.HollyHugMediaReformatGUI.resources
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\obj\x86\Debug\HollyHugMediaReformatGUI.Resources.resources
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\obj\x86\Debug\HollyHugMediaReformatGUI.exe
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\obj\x86\Debug\HollyHugMediaReformatGUI.xml
+C:\Users\Quinn\Projects\HollyHug\HollyHugVideoReformatGUI\HollyHugVideoReformatGUI\obj\x86\Debug\HollyHugMediaReformatGUI.pdb
