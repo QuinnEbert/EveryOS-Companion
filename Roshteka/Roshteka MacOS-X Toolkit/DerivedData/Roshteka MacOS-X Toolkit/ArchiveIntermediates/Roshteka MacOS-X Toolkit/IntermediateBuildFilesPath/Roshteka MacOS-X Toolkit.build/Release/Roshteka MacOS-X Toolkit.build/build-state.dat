@@ -1,0 +1,757 @@
+TRoshteka MacOS-X Toolkit
+v4
+r1
+cCheck dependencies
+cSymLink "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"
+cProcessInfoPlistFile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Info.plist" "Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plist"
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/main.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/Roshteka_MacOS_X_ToolkitAppDelegate.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesWindow.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesManager.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesManager.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/BackupBatteryInfoAccessor.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/RunSystemCommand.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../RunSystemCommand.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/LoadAndSaveTools.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/LoadAndSaveTools.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/AppleSmartBatteryInfo.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/ProBatteryInfoWindow.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/SpeakOut.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/SpeakOut.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit" normal x86_64
+cGenerateDSYMFile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app.dSYM" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"
+cCopyStringsFile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/InfoPlist.strings" "Roshteka MacOS-X Toolkit/en.lproj/InfoPlist.strings"
+cCpResource "Roshteka MacOS-X Toolkit/en.lproj/Credits.rtf" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/Credits.rtf"
+cCompileXIB "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/MainMenu.xib"
+cCopyTiffFile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/menulet.tiff" menulet.tiff
+cCpResource weather.LICENSE "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.LICENSE"
+cCpResource weather "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather"
+cCpResource weather.py "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.py"
+cCpResource weatherrc "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weatherrc"
+cCpResource apcaccess "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/apcaccess"
+cCompileXIB "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.xib"
+cCpResource Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg"
+cCpResource upsaccess "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/upsaccess"
+cCompileXIB "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.xib"
+cCpResource Roshteka.icns "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka.icns"
+cCpResource "Roshteka MacOS-X Toolkit/App Help" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/App Help"
+cTouch "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"
+cStrip "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"
+cSetOwnerAndGroup quinn:staff "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"
+cSetMode u+w,go-w,a+rX "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E7AD70B00000000000000EE
+t1316673291
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E7AD7020000000000002470
+t1316673282
+s9328
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app.dSYM
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Info.plist
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/App Help
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/PreferencesWindow.nib
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/ProBatteryInfoWindow.nib
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka.icns
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/apcaccess
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/Credits.rtf
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/menulet.tiff
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/upsaccess
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.LICENSE
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.py
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weatherrc
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/AppleSmartBatteryInfo.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/BackupBatteryInfoAccessor.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/LoadAndSaveTools.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesManager.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesWindow.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/ProBatteryInfoWindow.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/Roshteka MacOS-X Toolkit.LinkFileList
+c000000004EBEB0680000000000000B72
+t1321119848
+s2930
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/Roshteka_MacOS_X_ToolkitAppDelegate.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/RunSystemCommand.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/SpeakOut.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.h
+c000000004EA03BDF000000000000034C
+t1319123935
+s844
+i"RunSystemCommand.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.m
+c000000004EA03E5C0000000000000F25
+t1319124572
+s3877
+i"BackupBatteryInfoAccessor.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../RunSystemCommand.h
+c000000004E6BDD580000000000000124
+t1315691864
+s292
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../RunSystemCommand.m
+c000000004E6BDD58000000000000064E
+t1315691864
+s1614
+i"RunSystemCommand.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/App Help
+c000000004EBD88100000000000000066
+t1321043984
+s102
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.h
+c000000004EBD7D870000000000000227
+t1321041287
+s551
+i"RunSystemCommand.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.m
+c000000004EBD83710000000000000E75
+t1321042801
+s3701
+i"AppleSmartBatteryInfo.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/LoadAndSaveTools.h
+c000000004E6CA6B80000000000000147
+t1315743416
+s327
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/LoadAndSaveTools.m
+c000000004E6CAFE70000000000000841
+t1315745767
+s2113
+i"LoadAndSaveTools.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesManager.h
+c000000004E6CD3230000000000000365
+t1315754787
+s869
+i"LoadAndSaveTools.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesManager.m
+c000000004E6CDA90000000000000191B
+t1315756688
+s6427
+i"PreferencesManager.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.h
+c000000004E6C91A000000000000002FC
+t1315738016
+s764
+i<Cocoa/Cocoa.h>
+i"PreferencesManager.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.m
+c000000004EA01C0A0000000000001102
+t1319115786
+s4354
+i"PreferencesWindow.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.xib
+c000000004E6CD504000000000000A5D9
+t1315755268
+s42457
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.h
+c000000004EA05DE200000000000001B2
+t1319132642
+s434
+i<Cocoa/Cocoa.h>
+i"AppleSmartBatteryInfo.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.m
+c000000004EA06EE300000000000004E5
+t1319136995
+s1253
+i"ProBatteryInfoWindow.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.xib
+c000000004EBD7AA4000000000000503C
+t1321040548
+s20540
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch
+c000000004E65377400000000000000B3
+t1315256180
+s179
+i<Cocoa/Cocoa.h>
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.h
+c000000004EBE95CB0000000000000955
+t1321113035
+s2389
+i<Cocoa/Cocoa.h>
+i"PreferencesManager.h"
+i"RunSystemCommand.h"
+i"BackupBatteryInfoAccessor.h"
+i"LoadAndSaveTools.h"
+i"AppleSmartBatteryInfo.h"
+i"SpeakOut.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m
+c000000004EBE95CB00000000000048D6
+t1321113035
+s18646
+i"Roshteka_MacOS_X_ToolkitAppDelegate.h"
+i"PreferencesWindow.h"
+i"ProBatteryInfoWindow.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/SpeakOut.h
+c000000004EBD7987000000000000013E
+t1321040263
+s318
+i"RunSystemCommand.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/SpeakOut.m
+c000000004EBD850400000000000001AB
+t1321043204
+s427
+i"SpeakOut.h"
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/Credits.rtf
+c000000004E6782ED000000000000063D
+t1315406573
+s1597
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/InfoPlist.strings
+c000000004E653774000000000000002D
+t1315256180
+s45
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/MainMenu.xib
+c000000004EBE73F700000000000154E6
+t1321104375
+s87270
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/main.m
+c000000004E6537740000000000000107
+t1315256180
+s263
+i<Cocoa/Cocoa.h>
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka.icns
+c000000004EA09B2600000000000B4358
+t1319148326
+s738136
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg
+c000000004E68EE1A0000000000002BFF
+t1315499546
+s11263
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/apcaccess
+c000000004E660960000000000000982C
+t1315309920
+s38956
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/menulet.tiff
+c000000004E653D170000000000000E1A
+t1315257623
+s3610
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/upsaccess
+c000000004E6BE4360000000000000570
+t1315693622
+s1392
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/weather
+c000000004BA37C310000000000000B89
+t1269005361
+s2953
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/weather.LICENSE
+c000000004BA25D2F00000000000004C0
+t1268931887
+s1216
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/weather.py
+c000000004BA37C3E0000000000004AAA
+t1269005374
+s19114
+
+N/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/weatherrc
+c000000004BA37C6000000000000024BC
+t1269005408
+s9404
+
+NRoshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plist
+c000000004EA1DDC3000000000000058E
+t1319230915
+s1422
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../RunSystemCommand.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/LoadAndSaveTools.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesManager.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/SpeakOut.m"
+r0
+
+CBuild AST from "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2c9d8fe8e76eb441^0ea4a3e8e76eb441^---0#1#0#--18"Check dependencies36"C0150F6D-244B-454C-80B1-B4FB2E499D37-
+
+CCompileXIB "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.xib"
+s342812653.375080
+e342812654.388926
+r1
+xCompileXIB
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compiling /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.xib331b60ede76eb441^5a9e63eee76eb441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/PreferencesWindow.xib0000000000000000^731"CompileXIB "Roshteka MacOS-X Toolkit/PreferencesWindow.xib"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/PreferencesWindow.nib" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.xib" --sdk /Developer/SDKs/MacOSX10.7.sdk36"1BB7D5E1-8818-4846-A70E-92CA41DC05F9-
+
+CCompileXIB "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.xib"
+s342812654.398845
+e342812654.533130
+r1
+xCompileXIB
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compiling /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.xib5a2f66eee76eb441^1e8c88eee76eb441^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/ProBatteryInfoWindow.xib0000000000000000^740"CompileXIB "Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.xib"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/ProBatteryInfoWindow.nib" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.xib" --sdk /Developer/SDKs/MacOSX10.7.sdk36"23546214-D6FF-4996-BBFA-1E768C7D5930-
+
+CCompileXIB "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/MainMenu.xib"
+s342812653.249991
+e342812654.507349
+r1
+xCompileXIB
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/MainMenu.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compiling /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/MainMenu.xibec1340ede76eb441^84f381eee76eb441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/en.lproj/MainMenu.xib0000000000000000^731"CompileXIB "Roshteka MacOS-X Toolkit/en.lproj/MainMenu.xib"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.7.sdk36"47B5DB33-4CEC-4EB0-BFE0-57396A26EE69-
+
+CCopyStringsFile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/InfoPlist.strings" "Roshteka MacOS-X Toolkit/en.lproj/InfoPlist.strings"
+s342812653.243813
+e342812653.247193
+r1
+xCopyStringsFile
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/InfoPlist.strings
+xRoshteka MacOS-X Toolkit/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy Roshteka MacOS-X Toolkit/en.lproj/InfoPlist.stringsfe7d3eede76eb441^226d3fede76eb441^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/en.lproj/InfoPlist.strings0000000000000000^762"CopyStringsFile "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/InfoPlist.strings" "Roshteka MacOS-X Toolkit/en.lproj/InfoPlist.strings"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj" -- "Roshteka MacOS-X Toolkit/en.lproj/InfoPlist.strings"36"59CD45A9-7E82-4CA6-8475-9D7F061F6088-
+
+CCopyTiffFile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/menulet.tiff" menulet.tiff
+s342812653.251306
+e342812653.255028
+r1
+xCopyTiffFile
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/menulet.tiff
+xmenulet.tiff
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection17"Copy menulet.tiff0a6640ede76eb441^524941ede76eb441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/menulet.tiff0000000000000000^594"CopyTiffFile "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/menulet.tiff" menulet.tiff    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copyTiff --outdir "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources" -- menulet.tiff36"6E973C3D-5B67-44A5-8EBD-328BF9A5F7FF-
+
+CCpResource "Roshteka MacOS-X Toolkit/App Help" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/App Help"
+s342812654.514345
+e342812654.517560
+r1
+xCpResource
+xRoshteka MacOS-X Toolkit/App Help
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/App Help
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection191"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/App Help51bf83eee76eb441^5a7e84eee76eb441^---0#0#0#-19%DVTDocumentLocation2@290"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/App%20Help0000003dd3b8f041^804"CpResource "Roshteka MacOS-X Toolkit/App Help" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/App Help"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/App Help" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"0E1DC293-973F-4ED6-BD66-053867E7433F-
+
+CCpResource "Roshteka MacOS-X Toolkit/en.lproj/Credits.rtf" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/Credits.rtf"
+s342812653.243990
+e342812653.250095
+r1
+xCpResource
+xRoshteka MacOS-X Toolkit/en.lproj/Credits.rtf
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection203"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/Credits.rtf27883eede76eb441^ba1340ede76eb441^---0#0#0#-19%DVTDocumentLocation2@300"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/en.lproj/Credits.rtf0000003dd3b8f041^849"CpResource "Roshteka MacOS-X Toolkit/en.lproj/Credits.rtf" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj/Credits.rtf"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/en.lproj/Credits.rtf" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/en.lproj"36"7998AD80-7166-4D5E-A1B3-8CAD5F72488D-
+
+CCpResource Roshteka.icns "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka.icns"
+s342812654.508746
+e342812654.513056
+r1
+xCpResource
+xRoshteka.icns
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka.icns
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection196"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka.icnsa94f82eee76eb441^3f5783eee76eb441^---0#0#0#-19%DVTDocumentLocation2@293"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/Roshteka.icns0000003dd3b8f041^767"CpResource Roshteka.icns "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka.icns"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka.icns" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"D6BFFC89-FD44-476F-BBC1-AEFB8872F2D3-
+
+CCpResource Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg"
+s342812654.390227
+e342812654.393226
+r1
+xCpResource
+xRoshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection241"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg50fd63eee76eb441^00aa64eee76eb441^---0#0#0#-19%DVTDocumentLocation2@338"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg0000003dd3b8f041^902"CpResource Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"E4D4A6C6-9BB1-4F72-BA3A-BAEB9B32EAC0-
+
+CCpResource apcaccess "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/apcaccess"
+s342812653.303645
+e342812653.373773
+r1
+xCpResource
+xapcaccess
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/apcaccess
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/apcaccess8ece4dede76eb441^95bb5fede76eb441^-360"/usr/bin/strip -S /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/apcaccess -o /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/apcaccess -0#0#0#-19%DVTDocumentLocation2@289"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/apcaccess0000003dd3b8f041^755"CpResource apcaccess "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/apcaccess"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/apcaccess" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"4FFAFF2B-B1F0-41BB-A183-DF4BA1DFBA48-
+
+CCpResource upsaccess "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/upsaccess"
+s342812654.394551
+e342812654.397574
+r1
+xCpResource
+xupsaccess
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/upsaccess
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/upsaccessdb1665eee76eb441^acc765eee76eb441^---0#0#0#-19%DVTDocumentLocation2@289"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/upsaccess0000003dd3b8f041^755"CpResource upsaccess "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/upsaccess"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/upsaccess" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"85484850-32A9-4329-AA24-6676E5B2E94B-
+
+CCpResource weather "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather"
+s342812653.261855
+e342812653.282048
+r1
+xCpResource
+xweather
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection190"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weatherda1c43ede76eb441^6c4048ede76eb441^---0#0#0#-19%DVTDocumentLocation2@287"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/weather0000003dd3b8f041^749"CpResource weather "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/weather" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"193ABC7A-91F2-4A5C-9B74-D8D1B22396D6-
+
+CCpResource weather.LICENSE "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.LICENSE"
+s342812653.256347
+e342812653.260500
+r1
+xCpResource
+xweather.LICENSE
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.LICENSE
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection198"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.LICENSE53b141ede76eb441^2bbd42ede76eb441^---0#0#0#-19%DVTDocumentLocation2@295"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/weather.LICENSE0000003dd3b8f041^773"CpResource weather.LICENSE "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.LICENSE"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/weather.LICENSE" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"3F45446E-F9E9-468C-9F8B-572FA862EF1F-
+
+CCpResource weather.py "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.py"
+s342812653.283343
+e342812653.295544
+r1
+xCpResource
+xweather.py
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.py
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection193"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.py18b448ede76eb441^d8bb4bede76eb441^---0#0#0#-19%DVTDocumentLocation2@290"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/weather.py0000003dd3b8f041^758"CpResource weather.py "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weather.py"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/weather.py" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"0FD97543-076F-463F-8E5F-EABF11844371-
+
+CCpResource weatherrc "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weatherrc"
+s342812653.299568
+e342812653.302340
+r1
+xCpResource
+xweatherrc
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weatherrc
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Copy DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weatherrccec44cede76eb441^a5684dede76eb441^---0#0#0#-19%DVTDocumentLocation2@289"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/Resources/weatherrc0000003dd3b8f041^755"CpResource weatherrc "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources/weatherrc"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/weatherrc" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Resources"36"EF2F78DC-10F6-4857-B0C3-C9C5500EA6FD-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/AppleSmartBatteryInfo.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812651.787080
+e342812652.482469
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/AppleSmartBatteryInfo.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.m92aec9ebe76eb441^af967bece76eb441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/AppleSmartBatteryInfo.m0000000000000000^4349"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/AppleSmartBatteryInfo.o" "Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/AppleSmartBatteryInfo.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/AppleSmartBatteryInfo.o"36"E458D358-10CE-462F-BE1E-62A6CF7C634E-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/BackupBatteryInfoAccessor.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812650.983789
+e342812651.748848
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/BackupBatteryInfoAccessor.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.m030bfceae76eb441^63b3bfebe76eb441^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/../BackupBatteryInfoAccessor.m0000000000000000^4371"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/BackupBatteryInfoAccessor.o" "Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../BackupBatteryInfoAccessor.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/BackupBatteryInfoAccessor.o"36"077D9F92-B5A7-46FA-BF04-C8B88F68F136-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/LoadAndSaveTools.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/LoadAndSaveTools.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812651.750175
+e342812652.389490
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/LoadAndSaveTools.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/LoadAndSaveTools.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/LoadAndSaveTools.m603bc0ebe76eb441^07b563ece76eb441^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/LoadAndSaveTools.m0000000000000000^4329"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/LoadAndSaveTools.o" "Roshteka MacOS-X Toolkit/LoadAndSaveTools.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/LoadAndSaveTools.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/LoadAndSaveTools.o"36"67626640-7C3D-46EF-8118-5C02578CCB63-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesManager.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesManager.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812650.342799
+e342812651.134475
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesManager.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesManager.m51f557eae76eb441^e57f22ebe76eb441^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/PreferencesManager.m0000000000000000^4337"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesManager.o" "Roshteka MacOS-X Toolkit/PreferencesManager.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesManager.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesManager.o"36"4F107032-5332-4A81-926D-9B6F8CDACF7A-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesWindow.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812650.254686
+e342812650.982426
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesWindow.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.m956441eae76eb441^5a7ffbeae76eb441^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/PreferencesWindow.m0000000000000000^4333"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesWindow.o" "Roshteka MacOS-X Toolkit/PreferencesWindow.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/PreferencesWindow.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/PreferencesWindow.o"36"E3AFF10A-D66A-4405-B32B-64C735A6EE1D-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/ProBatteryInfoWindow.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812652.390778
+e342812653.015298
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/ProBatteryInfoWindow.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.m923b64ece76eb441^96e903ede76eb441^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/ProBatteryInfoWindow.m0000000000000000^4345"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/ProBatteryInfoWindow.o" "Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/ProBatteryInfoWindow.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/ProBatteryInfoWindow.o"36"8A578AE4-F423-4F98-A0EE-C075511F1838-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/Roshteka_MacOS_X_ToolkitAppDelegate.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812648.665130
+e342812650.341468
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/Roshteka_MacOS_X_ToolkitAppDelegate.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m707baae8e76eb441^bb7c57eae76eb441^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m0000000000000000^4405"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/Roshteka_MacOS_X_ToolkitAppDelegate.o" "Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka_MacOS_X_ToolkitAppDelegate.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/Roshteka_MacOS_X_ToolkitAppDelegate.o"36"EF2220B1-D9FF-481B-BE71-955AAFE6DD79-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/RunSystemCommand.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../RunSystemCommand.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812651.135795
+e342812651.785724
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/RunSystemCommand.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../RunSystemCommand.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../RunSystemCommand.m28f422ebe76eb441^1824c9ebe76eb441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/../RunSystemCommand.m0000000000000000^4335"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/RunSystemCommand.o" "Roshteka MacOS-X Toolkit/../RunSystemCommand.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/../RunSystemCommand.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/RunSystemCommand.o"36"75D59776-E6EE-4726-84B8-2CDBB583E5F4-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/SpeakOut.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/SpeakOut.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812652.483789
+e342812653.112845
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/SpeakOut.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/SpeakOut.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/SpeakOut.mdd0b7cece76eb441^3be21cede76eb441^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/SpeakOut.m0000000000000000^4297"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/SpeakOut.o" "Roshteka MacOS-X Toolkit/SpeakOut.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/SpeakOut.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/SpeakOut.o"36"8FF43E59-E2DC-4503-B4A7-8F06C3EBFCE6-
+
+CDistributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/main.o" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342812648.663901
+e342812650.253371
+r1
+xDistributed-CompileC
+xDerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/main.o
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Distribute compilation of /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/main.m8734aae8e76eb441^33dc40eae76eb441^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/main.m0000000000000000^4281"Distributed-CompileC "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/main.o" "Roshteka MacOS-X Toolkit/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/distcc.tmp"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-generated-files.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-own-target-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-all-target-headers.hmap" -iquote "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Roshteka MacOS-X Toolkit-project-headers.hmap" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/include" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources/x86_64" "-I/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/DerivedSources" -fpch-preprocess "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -include "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch" -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit/main.m" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/main.o"36"43337B5E-6D45-4707-9168-1370534332A3-
+
+CGenerateDSYMFile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app.dSYM" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"
+s342812653.194738
+e342812653.233744
+r1
+xGenerateDSYMFile
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app.dSYM
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection223"Generating /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app.dSYMddee31ede76eb441^99d53bede76eb441^---0#0#0#-19%DVTDocumentLocation2@244"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/BuildProductsPath/Release/Roshteka%20MacOS-X%20Toolkit.app.dSYM0000003dd3b8f041^963"GenerateDSYMFile "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app.dSYM" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    /Developer/usr/bin/dsymutil "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit" -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app.dSYM"36"E8A10193-5CAE-40C2-93D5-ABBE2C8840BF-
+
+CLd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit" normal x86_64
+s342812653.120367
+e342812653.188078
+r1
+xLd
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection273"Link /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkitc5e71eede76eb441^392530ede76eb441^---0#0#0#--1426"Ld "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit" normal x86_64    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk "-L/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" "-F/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release" -filelist "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/IntermediateBuildFilesPath/Roshteka MacOS-X Toolkit.build/Release/Roshteka MacOS-X Toolkit.build/Objects-normal/x86_64/Roshteka MacOS-X Toolkit.LinkFileList" -mmacosx-version-min=10.7 -framework Cocoa -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"36"7A6D6519-1AD5-480C-BD2A-DE4313F2EEDB-
+
+CProcessInfoPlistFile "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Info.plist" "Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plist"
+s342812648.595562
+e342812648.605810
+r1
+xProcessInfoPlistFile
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Info.plist
+xRoshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Process Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plistca8a99e8e76eb441^5803a4e8e76eb441^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit/Roshteka%20MacOS-X%20Toolkit-Info.plist0000000000000000^988"ProcessInfoPlistFile "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Info.plist" "Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plist"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    builtin-infoPlistUtility "Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plist" -genpkginfo "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/Info.plist"36"F60C1242-CC82-470E-8272-29BCC67204E3-
+
+CSetMode u+w,go-w,a+rX "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"
+s342812654.661133
+e342812654.694674
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection182"SetMode u+w,go-w,a+rX "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"fb73a9eee76eb441^02d7b1eee76eb441^---0#0#0#-19%DVTDocumentLocation2@261"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/0000000000000000^526"SetMode u+w,go-w,a+rX "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    /bin/chmod -RH u+w,go-w,a+rX "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"36"1D3CAF9D-DF5D-4E56-803F-036637ECC86D-
+
+CSetOwnerAndGroup quinn:staff "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"
+s342812654.600981
+e342812654.651303
+r1
+xSetOwnerAndGroup
+xquinn:staff
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection189"SetOwnerAndGroup quinn:staff "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"5bed99eee76eb441^f9bca6eee76eb441^---0#0#0#-19%DVTDocumentLocation2@261"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/0000000000000000^540"SetOwnerAndGroup "quinn:staff" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    /usr/sbin/chown -RH "quinn:staff" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"36"894E9DF4-1CD4-4DD8-8864-D0908B1B98DD-
+
+CStrip "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"
+s342812654.562472
+e342812654.592279
+r1
+xStrip
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection206"Strip "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"6f1190eee76eb441^86ab97eee76eb441^---0#0#0#-19%DVTDocumentLocation2@304"file://localhost/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka%20MacOS-X%20Toolkit/DerivedData/Roshteka%20MacOS-X%20Toolkit/ArchiveIntermediates/Roshteka%20MacOS-X%20Toolkit/InstallationBuildProductsLocation/Applications/Roshteka%20MacOS-X%20Toolkit.app/Contents/MacOS/Roshteka%20MacOS-X%20Toolkit0000000000000000^586"Strip "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    /Developer/usr/bin/strip "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app/Contents/MacOS/Roshteka MacOS-X Toolkit"36"FD016322-4418-4C28-AC1D-80A40BBEDA81-
+
+CSymLink "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"
+s342812648.595675
+e342812648.655728
+r1
+xSymLink
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection215"Process /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.appc19198e8e76eb441^d3f6a7e8e76eb441^---0#0#0#--845"SymLink "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app" "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    /bin/ln -sf "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app" "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/BuildProductsPath/Release/Roshteka MacOS-X Toolkit.app"36"CAFE3793-EB7E-4407-B01C-FC818D817419-
+
+CTouch "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"
+s342812654.541693
+e342812654.554344
+r1
+xTouch
+x/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection234"Touch /Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.appc2bd8aeee76eb441^adf98deee76eb441^---0#0#0#--499"Touch "DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"    cd "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit"    /usr/bin/touch -c "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/ArchiveIntermediates/Roshteka MacOS-X Toolkit/InstallationBuildProductsLocation/Applications/Roshteka MacOS-X Toolkit.app"36"F01B82DF-803B-446E-B52B-72CBA6CB938C-
+

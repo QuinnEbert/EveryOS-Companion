@@ -1,0 +1,412 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E4035982146DAFFE0018A231 /* SpeakOut.m in Sources */ = {isa = PBXBuildFile; fileRef = E4035981146DAFFE0018A231 /* SpeakOut.m */; };
+		E42185C8144F803F00BAD46A /* AppleSmartBatteryInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = E42185C7144F803F00BAD46A /* AppleSmartBatteryInfo.m */; };
+		E439F63E141784AF001F28B4 /* PreferencesWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = E439F63D141784AF001F28B4 /* PreferencesWindow.m */; };
+		E439F641141784E1001F28B4 /* PreferencesWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = E439F640141784E1001F28B4 /* PreferencesWindow.xib */; };
+		E43FCBF51417BA9D006E349D /* PreferencesManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E43FCBF41417BA9D006E349D /* PreferencesManager.m */; };
+		E4892094141CCF8C00366F31 /* LoadAndSaveTools.m in Sources */ = {isa = PBXBuildFile; fileRef = E4892093141CCF8C00366F31 /* LoadAndSaveTools.m */; };
+		E489F4D01450821E001367FD /* ProBatteryInfoWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = E489F4CF1450821E001367FD /* ProBatteryInfoWindow.xib */; };
+		E489F4D41450846A001367FD /* ProBatteryInfoWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = E489F4D31450846A001367FD /* ProBatteryInfoWindow.m */; };
+		E492CE7E141925D400D3AD83 /* Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E492CE7D141925D400D3AD83 /* Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg */; };
+		E499CAC9146F182E00CE8DB4 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E499CAC8146F182E00CE8DB4 /* Carbon.framework */; };
+		E4BBB5A21450D2C700C61FF6 /* Roshteka.icns in Resources */ = {isa = PBXBuildFile; fileRef = E4BBB5A11450D2C700C61FF6 /* Roshteka.icns */; };
+		E4C38BF1141640FD0091FCDE /* apcaccess in Resources */ = {isa = PBXBuildFile; fileRef = E4C38BF0141640FD0091FCDE /* apcaccess */; };
+		E4D75963145215F400B61280 /* App Help in Resources */ = {isa = PBXBuildFile; fileRef = E4D75962145215F400B61280 /* App Help */; };
+		E4DCCAA014156EF4001ADDBA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4DCCA9F14156EF4001ADDBA /* Cocoa.framework */; };
+		E4DCCAAA14156EF4001ADDBA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E4DCCAA814156EF4001ADDBA /* InfoPlist.strings */; };
+		E4DCCAAC14156EF4001ADDBA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E4DCCAAB14156EF4001ADDBA /* main.m */; };
+		E4DCCAB014156EF4001ADDBA /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = E4DCCAAE14156EF4001ADDBA /* Credits.rtf */; };
+		E4DCCAB314156EF4001ADDBA /* Roshteka_MacOS_X_ToolkitAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E4DCCAB214156EF4001ADDBA /* Roshteka_MacOS_X_ToolkitAppDelegate.m */; };
+		E4DCCAB614156EF4001ADDBA /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4DCCAB414156EF4001ADDBA /* MainMenu.xib */; };
+		E4DCCAC2141574AE001ADDBA /* menulet.tiff in Resources */ = {isa = PBXBuildFile; fileRef = E4DCCAC1141574AE001ADDBA /* menulet.tiff */; };
+		E4DCCAD414158793001ADDBA /* weather.LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E4DCCACA14158793001ADDBA /* weather.LICENSE */; };
+		E4DCCAD614158793001ADDBA /* weather in Resources */ = {isa = PBXBuildFile; fileRef = E4DCCACC14158793001ADDBA /* weather */; };
+		E4DCCAD814158793001ADDBA /* weather.py in Resources */ = {isa = PBXBuildFile; fileRef = E4DCCACE14158793001ADDBA /* weather.py */; };
+		E4DCCAD914158793001ADDBA /* weatherrc in Resources */ = {isa = PBXBuildFile; fileRef = E4DCCACF14158793001ADDBA /* weatherrc */; };
+		E4DE728D141C0924005FAD35 /* upsaccess in Resources */ = {isa = PBXBuildFile; fileRef = E4DE728C141C0924005FAD35 /* upsaccess */; };
+		E4DE7290141C0C11005FAD35 /* BackupBatteryInfoAccessor.m in Sources */ = {isa = PBXBuildFile; fileRef = E4DE728F141C0C10005FAD35 /* BackupBatteryInfoAccessor.m */; };
+		E4DE7293141C0CCA005FAD35 /* RunSystemCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = E4DE7292141C0CCA005FAD35 /* RunSystemCommand.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		E4035980146DAFFE0018A231 /* SpeakOut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeakOut.h; sourceTree = "<group>"; };
+		E4035981146DAFFE0018A231 /* SpeakOut.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpeakOut.m; sourceTree = "<group>"; };
+		E42185C6144F803F00BAD46A /* AppleSmartBatteryInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppleSmartBatteryInfo.h; sourceTree = "<group>"; };
+		E42185C7144F803F00BAD46A /* AppleSmartBatteryInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppleSmartBatteryInfo.m; sourceTree = "<group>"; };
+		E439F63C141784AF001F28B4 /* PreferencesWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PreferencesWindow.h; sourceTree = "<group>"; };
+		E439F63D141784AF001F28B4 /* PreferencesWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreferencesWindow.m; sourceTree = "<group>"; };
+		E439F640141784E1001F28B4 /* PreferencesWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PreferencesWindow.xib; sourceTree = "<group>"; };
+		E43FCBF31417BA9D006E349D /* PreferencesManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PreferencesManager.h; sourceTree = "<group>"; };
+		E43FCBF41417BA9D006E349D /* PreferencesManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreferencesManager.m; sourceTree = "<group>"; };
+		E4892092141CCF8B00366F31 /* LoadAndSaveTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadAndSaveTools.h; sourceTree = "<group>"; };
+		E4892093141CCF8C00366F31 /* LoadAndSaveTools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadAndSaveTools.m; sourceTree = "<group>"; };
+		E489F4CF1450821E001367FD /* ProBatteryInfoWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProBatteryInfoWindow.xib; sourceTree = "<group>"; };
+		E489F4D21450846A001367FD /* ProBatteryInfoWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProBatteryInfoWindow.h; sourceTree = "<group>"; };
+		E489F4D31450846A001367FD /* ProBatteryInfoWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProBatteryInfoWindow.m; sourceTree = "<group>"; };
+		E492CE7D141925D400D3AD83 /* Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg; sourceTree = "<group>"; };
+		E499CAC3146F17BC00CE8DB4 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = System/Library/Frameworks/Carbon.framework; sourceTree = SDKROOT; };
+		E499CAC8146F182E00CE8DB4 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Carbon.framework; sourceTree = "<group>"; };
+		E4BBB5A11450D2C700C61FF6 /* Roshteka.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Roshteka.icns; sourceTree = "<group>"; };
+		E4C38BF0141640FD0091FCDE /* apcaccess */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = apcaccess; sourceTree = "<group>"; };
+		E4D75962145215F400B61280 /* App Help */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "App Help"; sourceTree = "<group>"; };
+		E4DCCA9B14156EF4001ADDBA /* Roshteka MacOS-X Toolkit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Roshteka MacOS-X Toolkit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4DCCA9F14156EF4001ADDBA /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		E4DCCAA214156EF4001ADDBA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		E4DCCAA314156EF4001ADDBA /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		E4DCCAA414156EF4001ADDBA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		E4DCCAA714156EF4001ADDBA /* Roshteka MacOS-X Toolkit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Roshteka MacOS-X Toolkit-Info.plist"; sourceTree = "<group>"; };
+		E4DCCAA914156EF4001ADDBA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E4DCCAAB14156EF4001ADDBA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E4DCCAAD14156EF4001ADDBA /* Roshteka MacOS-X Toolkit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Roshteka MacOS-X Toolkit-Prefix.pch"; sourceTree = "<group>"; };
+		E4DCCAAF14156EF4001ADDBA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		E4DCCAB114156EF4001ADDBA /* Roshteka_MacOS_X_ToolkitAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Roshteka_MacOS_X_ToolkitAppDelegate.h; sourceTree = "<group>"; };
+		E4DCCAB214156EF4001ADDBA /* Roshteka_MacOS_X_ToolkitAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Roshteka_MacOS_X_ToolkitAppDelegate.m; sourceTree = "<group>"; };
+		E4DCCAB514156EF4001ADDBA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		E4DCCAC1141574AE001ADDBA /* menulet.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = menulet.tiff; sourceTree = "<group>"; };
+		E4DCCACA14158793001ADDBA /* weather.LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = weather.LICENSE; sourceTree = "<group>"; };
+		E4DCCACC14158793001ADDBA /* weather */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = weather; sourceTree = "<group>"; };
+		E4DCCACE14158793001ADDBA /* weather.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = weather.py; sourceTree = "<group>"; };
+		E4DCCACF14158793001ADDBA /* weatherrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = weatherrc; sourceTree = "<group>"; };
+		E4DE728C141C0924005FAD35 /* upsaccess */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = upsaccess; sourceTree = "<group>"; };
+		E4DE728E141C0C10005FAD35 /* BackupBatteryInfoAccessor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BackupBatteryInfoAccessor.h; path = ../BackupBatteryInfoAccessor.h; sourceTree = "<group>"; };
+		E4DE728F141C0C10005FAD35 /* BackupBatteryInfoAccessor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BackupBatteryInfoAccessor.m; path = ../BackupBatteryInfoAccessor.m; sourceTree = "<group>"; };
+		E4DE7291141C0CCA005FAD35 /* RunSystemCommand.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RunSystemCommand.h; path = ../RunSystemCommand.h; sourceTree = "<group>"; };
+		E4DE7292141C0CCA005FAD35 /* RunSystemCommand.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RunSystemCommand.m; path = ../RunSystemCommand.m; sourceTree = "<group>"; };
+		E4FFD2171450CC7B0045D19A /* Roshteka MacOS-X Toolkit copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Roshteka MacOS-X Toolkit copy-Info.plist"; path = "/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit copy-Info.plist"; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E4DCCA9814156EF4001ADDBA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4DCCAA014156EF4001ADDBA /* Cocoa.framework in Frameworks */,
+				E499CAC9146F182E00CE8DB4 /* Carbon.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E4DCCA9014156EF3001ADDBA = {
+			isa = PBXGroup;
+			children = (
+				E499CAC3146F17BC00CE8DB4 /* Carbon.framework */,
+				E4BBB5A11450D2C700C61FF6 /* Roshteka.icns */,
+				E4DCCAA514156EF4001ADDBA /* Roshteka MacOS-X Toolkit */,
+				E4DCCA9E14156EF4001ADDBA /* Frameworks */,
+				E4DCCA9C14156EF4001ADDBA /* Products */,
+				E4C38BF0141640FD0091FCDE /* apcaccess */,
+				E4DCCAC1141574AE001ADDBA /* menulet.tiff */,
+				E492CE7D141925D400D3AD83 /* Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg */,
+				E4DE728C141C0924005FAD35 /* upsaccess */,
+				E4DCCACA14158793001ADDBA /* weather.LICENSE */,
+				E4DCCACC14158793001ADDBA /* weather */,
+				E4DCCACE14158793001ADDBA /* weather.py */,
+				E4DCCACF14158793001ADDBA /* weatherrc */,
+				E4FFD2171450CC7B0045D19A /* Roshteka MacOS-X Toolkit copy-Info.plist */,
+			);
+			sourceTree = "<group>";
+		};
+		E4DCCA9C14156EF4001ADDBA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E4DCCA9B14156EF4001ADDBA /* Roshteka MacOS-X Toolkit.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E4DCCA9E14156EF4001ADDBA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E499CAC8146F182E00CE8DB4 /* Carbon.framework */,
+				E4DCCA9F14156EF4001ADDBA /* Cocoa.framework */,
+				E4DCCAA114156EF4001ADDBA /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E4DCCAA114156EF4001ADDBA /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E4DCCAA214156EF4001ADDBA /* AppKit.framework */,
+				E4DCCAA314156EF4001ADDBA /* CoreData.framework */,
+				E4DCCAA414156EF4001ADDBA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		E4DCCAA514156EF4001ADDBA /* Roshteka MacOS-X Toolkit */ = {
+			isa = PBXGroup;
+			children = (
+				E4DE7291141C0CCA005FAD35 /* RunSystemCommand.h */,
+				E4DE7292141C0CCA005FAD35 /* RunSystemCommand.m */,
+				E4DE728E141C0C10005FAD35 /* BackupBatteryInfoAccessor.h */,
+				E4DE728F141C0C10005FAD35 /* BackupBatteryInfoAccessor.m */,
+				E4DCCAB114156EF4001ADDBA /* Roshteka_MacOS_X_ToolkitAppDelegate.h */,
+				E4DCCAB214156EF4001ADDBA /* Roshteka_MacOS_X_ToolkitAppDelegate.m */,
+				E42185C6144F803F00BAD46A /* AppleSmartBatteryInfo.h */,
+				E42185C7144F803F00BAD46A /* AppleSmartBatteryInfo.m */,
+				E4DCCAB414156EF4001ADDBA /* MainMenu.xib */,
+				E439F63C141784AF001F28B4 /* PreferencesWindow.h */,
+				E439F63D141784AF001F28B4 /* PreferencesWindow.m */,
+				E439F640141784E1001F28B4 /* PreferencesWindow.xib */,
+				E43FCBF31417BA9D006E349D /* PreferencesManager.h */,
+				E43FCBF41417BA9D006E349D /* PreferencesManager.m */,
+				E4892092141CCF8B00366F31 /* LoadAndSaveTools.h */,
+				E4892093141CCF8C00366F31 /* LoadAndSaveTools.m */,
+				E489F4CF1450821E001367FD /* ProBatteryInfoWindow.xib */,
+				E489F4D21450846A001367FD /* ProBatteryInfoWindow.h */,
+				E489F4D31450846A001367FD /* ProBatteryInfoWindow.m */,
+				E4035980146DAFFE0018A231 /* SpeakOut.h */,
+				E4035981146DAFFE0018A231 /* SpeakOut.m */,
+				E4DCCAA614156EF4001ADDBA /* Supporting Files */,
+				E4D75962145215F400B61280 /* App Help */,
+			);
+			path = "Roshteka MacOS-X Toolkit";
+			sourceTree = "<group>";
+		};
+		E4DCCAA614156EF4001ADDBA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E4DCCAA714156EF4001ADDBA /* Roshteka MacOS-X Toolkit-Info.plist */,
+				E4DCCAA814156EF4001ADDBA /* InfoPlist.strings */,
+				E4DCCAAB14156EF4001ADDBA /* main.m */,
+				E4DCCAAD14156EF4001ADDBA /* Roshteka MacOS-X Toolkit-Prefix.pch */,
+				E4DCCAAE14156EF4001ADDBA /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E4DCCA9A14156EF4001ADDBA /* Roshteka MacOS-X Toolkit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4DCCAB914156EF4001ADDBA /* Build configuration list for PBXNativeTarget "Roshteka MacOS-X Toolkit" */;
+			buildPhases = (
+				E4DCCA9714156EF4001ADDBA /* Sources */,
+				E4DCCA9814156EF4001ADDBA /* Frameworks */,
+				E4DCCA9914156EF4001ADDBA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Roshteka MacOS-X Toolkit";
+			productName = "Roshteka MacOS-X Toolkit";
+			productReference = E4DCCA9B14156EF4001ADDBA /* Roshteka MacOS-X Toolkit.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E4DCCA9214156EF3001ADDBA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Beyond IT, LLC";
+			};
+			buildConfigurationList = E4DCCA9514156EF3001ADDBA /* Build configuration list for PBXProject "Roshteka MacOS-X Toolkit" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E4DCCA9014156EF3001ADDBA;
+			productRefGroup = E4DCCA9C14156EF4001ADDBA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E4DCCA9A14156EF4001ADDBA /* Roshteka MacOS-X Toolkit */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E4DCCA9914156EF4001ADDBA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4DCCAAA14156EF4001ADDBA /* InfoPlist.strings in Resources */,
+				E4DCCAB014156EF4001ADDBA /* Credits.rtf in Resources */,
+				E4DCCAB614156EF4001ADDBA /* MainMenu.xib in Resources */,
+				E4DCCAC2141574AE001ADDBA /* menulet.tiff in Resources */,
+				E4DCCAD414158793001ADDBA /* weather.LICENSE in Resources */,
+				E4DCCAD614158793001ADDBA /* weather in Resources */,
+				E4DCCAD814158793001ADDBA /* weather.py in Resources */,
+				E4DCCAD914158793001ADDBA /* weatherrc in Resources */,
+				E4C38BF1141640FD0091FCDE /* apcaccess in Resources */,
+				E439F641141784E1001F28B4 /* PreferencesWindow.xib in Resources */,
+				E492CE7E141925D400D3AD83 /* Roshteka_PreferencesWindow_AlphaRelease_PreferencesTab.jpg in Resources */,
+				E4DE728D141C0924005FAD35 /* upsaccess in Resources */,
+				E489F4D01450821E001367FD /* ProBatteryInfoWindow.xib in Resources */,
+				E4BBB5A21450D2C700C61FF6 /* Roshteka.icns in Resources */,
+				E4D75963145215F400B61280 /* App Help in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E4DCCA9714156EF4001ADDBA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4DCCAAC14156EF4001ADDBA /* main.m in Sources */,
+				E4DCCAB314156EF4001ADDBA /* Roshteka_MacOS_X_ToolkitAppDelegate.m in Sources */,
+				E439F63E141784AF001F28B4 /* PreferencesWindow.m in Sources */,
+				E43FCBF51417BA9D006E349D /* PreferencesManager.m in Sources */,
+				E4DE7290141C0C11005FAD35 /* BackupBatteryInfoAccessor.m in Sources */,
+				E4DE7293141C0CCA005FAD35 /* RunSystemCommand.m in Sources */,
+				E4892094141CCF8C00366F31 /* LoadAndSaveTools.m in Sources */,
+				E42185C8144F803F00BAD46A /* AppleSmartBatteryInfo.m in Sources */,
+				E489F4D41450846A001367FD /* ProBatteryInfoWindow.m in Sources */,
+				E4035982146DAFFE0018A231 /* SpeakOut.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		E4DCCAA814156EF4001ADDBA /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E4DCCAA914156EF4001ADDBA /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		E4DCCAAE14156EF4001ADDBA /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E4DCCAAF14156EF4001ADDBA /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		E4DCCAB414156EF4001ADDBA /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E4DCCAB514156EF4001ADDBA /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E4DCCAB714156EF4001ADDBA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		E4DCCAB814156EF4001ADDBA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		E4DCCABA14156EF4001ADDBA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch";
+				INFOPLIST_FILE = "Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plist";
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		E4DCCABB14156EF4001ADDBA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Prefix.pch";
+				INFOPLIST_FILE = "Roshteka MacOS-X Toolkit/Roshteka MacOS-X Toolkit-Info.plist";
+				ONLY_ACTIVE_ARCH = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E4DCCA9514156EF3001ADDBA /* Build configuration list for PBXProject "Roshteka MacOS-X Toolkit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4DCCAB714156EF4001ADDBA /* Debug */,
+				E4DCCAB814156EF4001ADDBA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E4DCCAB914156EF4001ADDBA /* Build configuration list for PBXNativeTarget "Roshteka MacOS-X Toolkit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4DCCABA14156EF4001ADDBA /* Debug */,
+				E4DCCABB14156EF4001ADDBA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E4DCCA9214156EF3001ADDBA /* Project object */;
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E4DCCA9A14156EF4001ADDBA"
+               BuildableName = "Roshteka MacOS-X Toolkit.app"
+               BlueprintName = "Roshteka MacOS-X Toolkit"
+               ReferencedContainer = "container:Roshteka MacOS-X Toolkit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.GDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.GDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E4DCCA9A14156EF4001ADDBA"
+            BuildableName = "Roshteka MacOS-X Toolkit.app"
+            BlueprintName = "Roshteka MacOS-X Toolkit"
+            ReferencedContainer = "container:Roshteka MacOS-X Toolkit.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.GDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.GDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E4DCCA9A14156EF4001ADDBA"
+            BuildableName = "Roshteka MacOS-X Toolkit.app"
+            BlueprintName = "Roshteka MacOS-X Toolkit"
+            ReferencedContainer = "container:Roshteka MacOS-X Toolkit.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E4DCCA9A14156EF4001ADDBA"
+            BuildableName = "Roshteka MacOS-X Toolkit.app"
+            BlueprintName = "Roshteka MacOS-X Toolkit"
+            ReferencedContainer = "container:Roshteka MacOS-X Toolkit.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+      <PostActions>
+         <ExecutionAction
+            ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+            <ActionContent
+               title = "Run Script"
+               scriptText = "/bin/rm -f &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit.zip&apos;&#10;/bin/echo &apos;Project built &apos;`/bin/date`&apos; by &apos;`/usr/bin/whoami`&apos; on &apos;`/bin/echo $HOSTNAME | /usr/bin/cut -d&apos;.&apos; -f&apos;1&apos;` &gt; &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/BUILT_ON&apos;&#10;/bin/cp -R &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit/DerivedData/Roshteka MacOS-X Toolkit/Build/Products/Release/Roshteka MacOS-X Toolkit.app&apos; &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/&apos;&#10;/usr/bin/zip -9r &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit.zip&apos; &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit.pdf&apos; &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/DO NOT SHARE THIS SOFTWARE PACKAGE.rtf&apos; &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit.rtf&apos; &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit.pages&apos; &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/Roshteka MacOS-X Toolkit.app&apos; &apos;/Users/quinn/Dropbox/Projects/Cocoa_Roshteka/BUILT_ON&apos;"
+               shellToInvoke = "/bin/bash">
+            </ActionContent>
+         </ExecutionAction>
+      </PostActions>
+   </ArchiveAction>
+</Scheme>
