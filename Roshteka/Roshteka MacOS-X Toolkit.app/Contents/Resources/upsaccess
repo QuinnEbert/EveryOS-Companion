@@ -1,0 +1,30 @@
+#!/bin/bash
+# 
+# Script provided by Quinn Ebert
+# Part of Roshteka Macintosh Tool Kit
+# 
+# This script is protected by US "Assumed" Copyright with the author being the legally responsible party.
+# 
+# TERMS OF USE:
+#  + You MAY use this script as-written (WITHOUT ANY MODIFICATION) on ONE computer system controlled fully by you.
+#  + You UNDERSTAND that Roshteka's use of this script in ways not otherwise prescribed for you to use the script does NOT
+#    constitute breach of this TERMS OF USE due to Roshteka's use of the script being an effective use on the part of the
+#    the author AND such use on Roshteka's part does not grant you any additional rights to use this script other than the
+#    terms described above.
+#  + ANY other use not described above is EXPLICITLY DISALLOWED.  This means ALL other use, modification, and redistribution
+#    not previously described as being allowed to you will NOT BE PERMITTED!
+# 
+# THIS SCRIPT MAY **NEVER** BE TRANSFERRED BY YOU OR THE ORIGINAL AUTHOR FOR A FEE, IT MAY NOT BE SOLD OR LEASED/RENTED, AND
+# NO MONETARY VALUE MAY BE PLACED ON IT OR BE ASSESSED FOR ITS USE.
+# 
+
+#export DQXSBIN="/sbin/apcaccess"
+#export DQXSROW="$2"
+export DQXSBIN="$1"
+export DQXSROW="$2"
+
+export GREPBIN="/usr/bin/grep"
+export CUTPROG="/usr/bin/cut"
+export SEDPROG="/usr/bin/sed"
+
+"$DQXSBIN" | $GREPBIN $DQXSROW | $CUTPROG -d':' -f'2' | $SEDPROG 's/^[ ]*//'
