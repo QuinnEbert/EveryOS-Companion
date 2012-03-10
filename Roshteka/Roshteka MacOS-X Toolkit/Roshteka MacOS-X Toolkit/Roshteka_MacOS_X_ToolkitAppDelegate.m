@@ -24,7 +24,7 @@
 
 - (void) receiveSleepNote: (NSNotification*) note
 {
-    //[self logPrint:[NSString stringWithFormat:@"receiveSleepNote: %@", [note name]]];
+    [self logPrint:[NSString stringWithFormat:@"receiveSleepNote: %@", [note name]]];
     
     // Halt the refresh timer...
     [myTimer invalidate];
@@ -32,7 +32,7 @@
 
 - (void) receiveWakeNote: (NSNotification*) note
 {
-    //[self logPrint:[NSString stringWithFormat:@"receiveSleepNote: %@", [note name]]];
+    [self logPrint:[NSString stringWithFormat:@"receiveSleepNote: %@", [note name]]];
 
     // Make the refresh timer...
     myTimer = [NSTimer scheduledTimerWithTimeInterval:20.0 target:self selector:@selector(doPowerSourceInfoUpdateTimer:) userInfo:nil repeats:YES];
@@ -40,7 +40,7 @@
 
 - (void) fileNotifications
 {
-    //[self logPrint:@"Ask for system notifications..."];
+    [self logPrint:@"Ask for system notifications..."];
     //These notifications are filed on NSWorkspace's notification center, not the default 
     // notification center. You will not receive sleep/wake notifications if you file 
     //with the default notification center.
@@ -51,7 +51,7 @@
     [[[NSWorkspace sharedWorkspace] notificationCenter] addObserver: self 
                                                            selector: @selector(receiveWakeNote:) 
                                                                name: NSWorkspaceDidWakeNotification object: NULL];
-    //[self logPrint:@"Asked for system notifications!"];
+    [self logPrint:@"Asked for system notifications!"];
 }
 
 //FIXME: This could probably be implemented in one of the libraries, but, for now here is good enough...
@@ -198,9 +198,21 @@
     //[myVoice speak:@"Hello, my name is Sangeeta, I'm an Indian English voice."];
     //[myVoice speak:[lastBattPwr stringByAppendingString:@" percent battery power remains here."]];
     
+    // Debug info => speech system used
+    if ([self cepstral]) {
+        [self logPrint:@"Will speak using Cepstral!"];
+    } else {
+        [self logPrint:@"Will speak using MacinTalk!"];
+    }
+    
     // Setup system event notifications
     [self fileNotifications];
     
+}
+
+- (BOOL)cepstral {
+    NSFileManager *NSFM = [NSFileManager defaultManager];
+    return [NSFM fileExistsAtPath:@"/usr/bin/swift"];
 }
 
 - (void)doPowerStatusChangeActions {

@@ -14,6 +14,8 @@
     RunSystemCommand *Executor;
 }
 
+- (BOOL)cepstral;
+
 - (void)speak:(NSString *) text;
 
 @end

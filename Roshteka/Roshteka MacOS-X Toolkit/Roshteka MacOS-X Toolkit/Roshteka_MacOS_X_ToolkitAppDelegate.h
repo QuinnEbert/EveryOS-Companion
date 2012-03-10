@@ -65,6 +65,7 @@
 // Assigned value properties
 @property (assign) bool lastUtilPwr;
 
+- (BOOL)cepstral;
 - (void)doPowerSourceInfoUpdateTasks;
 - (void)doPreferencesDataRefreshTimer:(NSTimer *)source;
 - (void)doPowerSourceInfoUpdateTimer:(NSTimer *)source;

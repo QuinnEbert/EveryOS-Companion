@@ -13,7 +13,16 @@
 - (void)speak:(NSString *) text {
     NSArray *SpeakArg = [NSArray arrayWithObjects:text,nil];
     Executor = [[RunSystemCommand alloc] init];
-    [Executor doRunSystemCommand:@"/usr/bin/say" withArguments:SpeakArg];
+    if ([self cepstral]) {
+        [Executor doRunSystemCommand:@"/usr/bin/swift" withArguments:SpeakArg];
+    } else {
+        [Executor doRunSystemCommand:@"/usr/bin/say" withArguments:SpeakArg];
+    }
+}
+
+- (BOOL)cepstral {
+    NSFileManager *NSFM = [NSFileManager defaultManager];
+    return [NSFM fileExistsAtPath:@"/usr/bin/swift"];
 }
 
 @end
